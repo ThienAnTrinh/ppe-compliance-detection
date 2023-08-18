@@ -1,0 +1,6 @@
+torch==2.0.1
+ultralytics==8.0.154
+Flask==2.3.2
+Flask-WTF==1.1.1
+PyYAML==6.0.1
+WTForms==3.0.1

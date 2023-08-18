@@ -1,0 +1,163 @@
+.greet1 {
+    background-color: #800000;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+    padding: 2rem;
+}
+
+.greet2 {
+    font-size: 1rem;
+    font-weight: 500;
+    text-align: center;
+    padding: 1.5rem;
+}
+
+.greet3 {
+    background-color: #01796f;
+    color: white;
+    font-size: 1rem;
+    font-weight: 300;
+    text-align: center;
+    padding: 1rem;
+}
+
+.greet4 {
+    background-color: #996515;
+    color: white;
+    font-size: 1rem;
+    font-weight: 300;
+    text-align: center;
+    padding: 1rem;
+}
+
+.greet5 {
+    background-color: #005493;
+    color: white;
+    font-size: 1rem;
+    font-weight: 300;
+    text-align: center;
+    padding: 1rem;
+}
+
+.solar {
+    text-align: center;
+    font-size: 0.9rem;
+    padding: 0rem 2rem 1rem;
+}
+
+.solar img {
+    max-width: 100%;
+}
+
+#earth {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/OrteliusWorldMap1570.jpg/1280px-OrteliusWorldMap1570.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.65;
+    background-size: cover;
+    max-width: 100%;
+    padding: 1%;
+}
+
+#earth .row {
+    padding: 3%;
+    color: #996515;
+    font-size: 1rem;
+    text-align: center;
+}
+
+#earth form {
+    opacity: 0.75;
+}
+
+.audio_animals {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+}
+
+.world {
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.8;
+    background-size: cover;
+    max-width: 100%;
+    padding: 25%;
+}
+
+.btn-danger {
+    background-color: #800000;
+    border-color: #800000;
+    color: #fff;
+    margin: 0rem 2rem 1.5rem;
+}
+
+.btn-danger:hover{
+    background-color: #bc544b;
+    border-color: #bc544b;
+}
+
+.btn-light {
+    background-color: #01796f;
+    border-color: #01796f;
+    color: #fff;
+    margin: 1rem 2rem 2rem;
+}
+
+.btn-warning {
+    background-color: #996515;
+    border-color: #996515;
+    color: #fff;
+    margin: 1rem 2rem 2rem;
+}
+
+.btn-primary {
+    opacity: 0.8;
+    background-color: #005493;
+    color: #fff;
+    border-color: #005493;
+    margin: 1rem 2rem 2rem;
+}
+
+.btn-primary:hover {
+    background-color: #367588;
+    border-color: #367588;
+}
+
+.navbuttons {
+    opacity: 0.75;
+}
+
+#correct, #incorrect {
+    text-align: center;
+    display: none;
+}
+
+div[class="col-sm"], div[class="col-sm-auto"] {
+    text-align: center;
+}
+
+.radio-image {
+    padding: 0rem 2rem;
+}
+
+label img {
+    padding: 1rem 0rem;
+}
+
+h6 {
+    padding: 1rem;
+    text-align: center;
+}
+
+.form-check {
+    padding: 0rem 2rem 2rem;
+}
+
+#ref {
+    text-align: center;
+    font-size: x-small;
+}
