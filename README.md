@@ -1,8 +1,6 @@
-## AASD4016 - Full Stack Data Science Systems
-
 # Project: PPE Compliance Detection System
 
-## Group 4:
+## Contributors:
 * Thien An Trinh
 * Roman Burekhin
 * Athira Devan
